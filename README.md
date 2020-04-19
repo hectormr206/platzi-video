@@ -1,3 +1,9 @@
 # platzi-video
+
 Proyecto de la Carrera de JavaScript en Platzi
-# escuela-js
+
+# Iniciar Fake API para mostrar contenido
+
+```
+json-server initialState.json
+```
